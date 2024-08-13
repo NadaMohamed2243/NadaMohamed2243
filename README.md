@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NadaMohamed2243](https://github.com/NadaMohamed2243)
 
-- 💬 Ask me about **HTML , CSS , JS , React , Figma**
+- 💬 Ask me about **HTML , CSS , JS , React , Figma , UI/UX**
 
 - 📫 How to reach me **nada.mohamed.1102001@gmail.com**
 

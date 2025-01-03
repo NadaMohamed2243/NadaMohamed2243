@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently **ITI trainee | Open Source track**
 
-📘 Courses completed: **C ,Object-Oriented Programming (OOP) using C++ ,Introduction to Networking and Security ,Data Structures ,Operating Systems ,Client-side HTML (prior to version 5) ,CSS ,Communication Skills**
+- 📘 Courses completed: **C ,Object-Oriented Programming (OOP) using C++ ,Introduction to Networking and Security ,Data Structures ,Operating Systems ,Client-side HTML (prior to version 5) ,CSS 
+      ,Communication Skills**
 
-🌱 Currently learning: **JavaScript ,Red Hat Administration 1, Version Control ,Databases ,English**
+- 🌱 Currently learning: **JavaScript ,Red Hat Administration 1, Version Control ,Databases ,English**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NadaMohamed2243](https://github.com/NadaMohamed2243)
 

@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently **ITI trainee | Open Source track**
 
-- 📘 Courses completed: **- Introduction to Programming using C
+- 📘 Courses completed: **
+   - Introduction to Programming using C
 - Introduction to Software Engineering
 - Object-Oriented Programming (OOP) using C++
 - Introduction to Computer Networks and Cyber Security

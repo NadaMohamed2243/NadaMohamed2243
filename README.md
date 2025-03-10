@@ -5,27 +5,15 @@
 
 - 📘 Courses completed:
   - **Introduction to Programming using C**
-  - **Introduction to Software Engineering**
-  - **Object-Oriented Programming (OOP) using C++**
-  - **Introduction to Computer Networks and Cyber Security**
-  - **Data Structures and Algorithms**
-  - **Operating Systems Fundamentals**
-  - **Client-Side (HTML prior to version 5, CSS prior to version 3)**
-  - **Communication Essentials for Professionals**
-  - **ES6 (JavaScript)**
-  - **Database Fundamentals**
-  - **HTML5 & CSS3**
-  - **XML Fundamentals**
-  - **Red Hat Administration 1**
-  - **Version Control Systems**
-  - **Apache Web Server**
-  - **Bash Shell Scripting**
-  - **CSS Frameworks (Bootstrap)**
-  - **Core Java Programming**
-  - **Freelancing**
-  - **MySQL Database**
-  - **VueJS**
+  - **Introduction to Programming using C** | **Introduction to Software Engineering** | **Object-Oriented Programming (OOP) using C++**
+  - **Introduction to Computer Networks and Cyber Security** | **Data Structures and Algorithms** | **Operating Systems Fundamentals**
+  - **Client-Side (HTML prior to version 5, CSS prior to version 3)** | **Communication Essentials for Professionals** | **ES6 (JavaScript)**
+  - **Database Fundamentals** | **HTML5 & CSS3** | **XML Fundamentals**
+  - **Red Hat Administration 1** | **Version Control Systems** | **Apache Web Server**
+  - **Bash Shell Scripting** | **CSS Frameworks (Bootstrap)** | **Core Java Programming**
+  - **Freelancing** | **MySQL Database** | **VueJS**
   - **Professional Demeanor (Workshop)**
+
 
 - 🌱 Currently learning:
   - **PHP Programming**

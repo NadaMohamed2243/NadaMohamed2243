@@ -4,7 +4,6 @@
 - 🌱 I’m currently **ITI trainee | Open Source track**
 
 - 📘 Courses completed:
-  - **Introduction to Programming using C**
   - **Introduction to Programming using C** | **Introduction to Software Engineering** | **Object-Oriented Programming (OOP) using C++**
   - **Introduction to Computer Networks and Cyber Security** | **Data Structures and Algorithms** | **Operating Systems Fundamentals**
   - **Client-Side (HTML prior to version 5, CSS prior to version 3)** | **Communication Essentials for Professionals** | **ES6 (JavaScript)**
@@ -12,12 +11,11 @@
   - **Red Hat Administration 1** | **Version Control Systems** | **Apache Web Server**
   - **Bash Shell Scripting** | **CSS Frameworks (Bootstrap)** | **Core Java Programming**
   - **Freelancing** | **MySQL Database** | **VueJS**
-  - **Professional Demeanor (Workshop)**
+  - **Professional Demeanor (Workshop)** | **PHP Programming** | **High-Impact Presentations**
 
 
 - 🌱 Currently learning:
-  - **PHP Programming**
-  - **High-Impact Presentations**
+  - **Laravel**
   - **Agile Software Development Methodologies**
   - **English**
 

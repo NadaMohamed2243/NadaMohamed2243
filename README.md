@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Mohamed</h1>
-<h3 align="center">Junior frontend developer / UI/UX designer</h3>
+<h3 align="center">Junior Full Stack developer / UI/UX designer</h3>
 
 - 🌱 I’m currently **ITI trainee | Open Source track**
 

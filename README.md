@@ -12,11 +12,13 @@
   - **Bash Shell Scripting** | **CSS Frameworks (Bootstrap)** | **Core Java Programming**
   - **Freelancing** | **MySQL Database** | **VueJS**
   - **Professional Demeanor (Workshop)** | **PHP Programming** | **High-Impact Presentations**
+  - **Laravel** | **Agile Software Development Methodologies**
 
 
 - 🌱 Currently learning:
-  - **Laravel**
-  - **Agile Software Development Methodologies**
+  - **MongoDB**
+  - **NodeJs**
+  - **Application Security**
   - **English**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NadaMohamed2243](https://github.com/NadaMohamed2243)

@@ -12,12 +12,14 @@
   - **Bash Shell Scripting** | **CSS Frameworks (Bootstrap)** | **Core Java Programming**
   - **Freelancing** | **MySQL Database** | **VueJS**
   - **Professional Demeanor (Workshop)** | **PHP Programming** | **High-Impact Presentations**
-  - **Laravel** | **Agile Software Development Methodologies**
+  - **Laravel** | **Agile Software Development Methodologies** | **MongoDB**
+  - **Python** | **NodeJS** | **IOT**
 
 
 - 🌱 Currently learning:
-  - **MongoDB**
-  - **NodeJs**
+  - **Angular**
+  - **Django**
+  - **Job Seeking**
   - **Application Security**
   - **English**
 

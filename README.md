@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **HTML , CSS , JS , React , Figma , UI/UX**
 
-- 📫 How to reach me **nada.mohamed.1102001@gmail.com**
+- 📫 How to reach me **nadamohamedeleshmawy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

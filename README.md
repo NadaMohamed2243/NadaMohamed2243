@@ -14,18 +14,20 @@
   - **Professional Demeanor (Workshop)** | **PHP Programming** | **High-Impact Presentations**
   - **Laravel** | **Agile Software Development Methodologies** | **MongoDB**
   - **Python** | **NodeJS** | **IOT**
+  - **Angular** | **Django** | **Job Seeking**
+  - **Application Security** | **English**
+  - **ReactJS** | **Nestjs** | **Nextjs**
+  - **Clould Computing and Docker Fundamentals** | **Design Patterns** | **PHP CMSs**
+  - **Ruby Programming** | **Unit and Automated Testing** | **GraphQL**
+  - **Web Services** | **Push / Pull technologes**
 
 
 - 🌱 Currently learning:
-  - **Angular**
-  - **Django**
-  - **Job Seeking**
-  - **Application Security**
-  - **English**
+  - 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NadaMohamed2243](https://github.com/NadaMohamed2243)
 
-- 💬 Ask me about **HTML , CSS , JS , React , Figma , UI/UX**
+- 💬 Ask me about **Angular , NodeJS , JS , React , Figma , UI/UX , Laravel**
 
 - 📫 How to reach me **nadamohamedeleshmawy@gmail.com**
 

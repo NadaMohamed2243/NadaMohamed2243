@@ -23,7 +23,7 @@
 
 
 - 🌱 Currently learning:
-  - 
+  - **AI Basics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NadaMohamed2243](https://github.com/NadaMohamed2243)
 
